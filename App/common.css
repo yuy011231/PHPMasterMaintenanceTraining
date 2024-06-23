@@ -1,0 +1,106 @@
+.horizontal_rayout{
+    display: flex;
+    justify-content: center;
+}
+.horizontal_rayout_sp{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 40px;
+}
+.space{
+    padding: 0 30px 0 30px;
+}
+.space_e{
+    width: 180px;
+    display: flex;
+    justify-content: center;
+    padding: 0 30px 0 30px;
+}
+.b_style{
+    margin: 0 15px 0 15px;
+    width: 100px;
+}
+.table_section_rayout{
+    margin-left: auto;
+    margin-right: auto;
+    border-spacing: 0;
+}
+.table_info{
+    display: flex;
+    justify-content: center;
+}
+.table_info_p{
+    width: 520px;
+    text-align: left;
+}
+.staff_table_info_p{
+    width: 940px;
+    text-align: left;
+}
+.table_info_div{
+    width: 520px;
+    display: flex;
+    justify-content: space-between;
+}
+.table_contents{
+    display: flex;
+    justify-content: space-between;
+}
+.input_style{
+    width: 200px;
+}
+.tableWidth150{
+    width: 150px;
+}
+.tableWidth250{
+    width: 250px;
+}
+.tableWidth60{
+    width: 60px;
+}
+.inputWidth{
+    width: 200px;
+}
+.font_red{
+    color:red;
+}
+.staffInputWidth{
+    width:124px;
+}
+.staffInputTitle{
+    display: flex;
+    width:124px;
+    justify-content: center;
+}
+.page_hedder{
+    display: block;
+    font-size: 2em;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+.radioButton {
+  top: 2px;
+  position: relative;
+}
+.inputHeight{
+    height: 100px;
+}
+.tableDiv{
+    width: 940px;
+    display: flex;
+    justify-content: space-between;
+}
+
+
+p{
+    margin: 0;
+}
+td, th{
+    border: 1px solid black;
+}
+input{
+    padding: 0;
+}
